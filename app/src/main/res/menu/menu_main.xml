@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_1"
+        android:title="작년순위보기"
+        app:showAsAction="collapseActionView"/>
+
+    <item
+        android:id="@+id/menu_2"
+        android:title="월별순위보기(준비중)"
+        app:showAsAction="collapseActionView"/>
+
+    <item
+        android:id="@+id/menu_3"
+        android:title="연별순위보기(준비중)"
+        app:showAsAction="collapseActionView"/>
+
+</menu>
